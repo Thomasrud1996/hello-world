@@ -1,2 +1,3 @@
 # hello-world
-a repo
+
+This is to familiarize myself with GitHub...
